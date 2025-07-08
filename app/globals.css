@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @import "@fontsource/instrument-serif";
+@import '@fontsource-variable/space-grotesk';
 
 @theme {
   --font-serif-instrument: "Instrument Serif", serif;
+  --font-space-grotesk: 'Space Grotesk Variable', sans-serif;
 }
